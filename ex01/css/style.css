@@ -1,0 +1,37 @@
+   body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+    h1 {
+        color: #D40000;
+        background-color: #FFD9E6;
+        text-align: center;
+    }
+    p {
+    text-align: center;
+    font-style: italic;
+    font-size: 18px;
+}
+    article {
+            width: 640px;
+            box-sizing: border-box;
+            padding: 24px;
+            background-color: #FFFDE7;
+            border: 1px solid #9E9E9E;
+     }
+    .xanh {
+    color: #0033CC;
+    }
+
+    .do {
+    color: #D40000;
+    }
+hr {
+    width: 55%;
+    border: none;
+    border-top: 1px solid #0033CC;
+    margin: 1px auto;
+}
